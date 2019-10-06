@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Jackie Owen](https://github.com/jackie1969)
+- Place: Pattaya, Thaialnd
+- Bio: Web developer
+- GitHub: [Jackie1969](https://github.com/jackie1969)
